@@ -1,7 +1,9 @@
-# Revenue-Customer-Growth-Analytics
+## Revenue Customer Growth Analytics Dashboard
 This project delivers an end-to-end Finance Analytics solution analyzing Revenue, Customer Growth, Churn, ARPU, and Segment/Geographic performance for FY 2023–2024 using Excel + SQL + Power BI.
 
+![Image](https://github.com/user-attachments/assets/c5267233-7ea9-4144-9051-dd03c0dff169)
 
+🚀 Project Overview:- 
 This project uses customer and revenue data to answer key business questions:
 
 What is the total revenue, and how does it vary month-to-month?
@@ -29,7 +31,7 @@ Retention Rate: 90.39%
 
 📌 Insights
 
-1️. Monthly Revenue Trend- Shows revenue stability and yearly drop from FY 2023 → FY 2024.
+1️. Monthly Revenue Trend- Shows revenue stability and yearly drop from FY 2023 - FY 2024.
 
 2️. ARPU Trend (Monthly)- Displays how user monetization changed month-over-month.
 
